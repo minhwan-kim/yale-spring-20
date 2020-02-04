@@ -1,0 +1,65 @@
+html{
+    cursor: wait;
+}
+body{
+  font-family: 'Jomolhari', serif;
+  background-color: #69FF23;
+}
+
+br{
+  content: "";
+  margin: 0.3em;
+  display: block;
+  font-size: 24%;
+}
+
+
+.intro{
+  width:95%;
+  position: fixed;
+  top:40.15%;
+  left:10px;
+  margin-left: 2%;
+  font-size: 1.2em;
+  line-height:1.15;
+  z-index: 50;
+  text-align: center;
+}
+
+.lunch{
+  width:35%;
+  position: fixed;
+  bottom:25px;
+  left:10px;
+  margin-left: 2%;
+  font-size: 1.2em;
+  line-height:1.15;
+}
+
+
+.clock{
+  width:12335%;
+  position: fixed;
+  top:22px;
+  left:2%;
+  margin-left: 2%;
+  font-size: 1.2em;
+  line-height:1.15;
+}
+
+
+img{
+  max-width: 52%;
+  height: auto;
+  z-index: -50;
+}
+
+
+section {
+      display: flex;
+      width: 50%;
+      height: 200px;
+      margin: auto;
+      border-radius: 10px;
+      border: 0px dashed #1c87c9;
+    }
