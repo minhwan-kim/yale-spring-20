@@ -1,9 +1,10 @@
 html{
     cursor: wait;
+    font-size: 1.12em;
 }
 body{
   font-family: 'Jomolhari', serif;
-  background-color: #69FF23;
+  /* background-color: #69FF23; */
 }
 
 br{
@@ -25,6 +26,21 @@ br{
   z-index: 50;
   text-align: center;
 }
+
+
+.outro{
+  width:95%;
+  position: fixed;
+  bottom:3.15%;
+  left:10px;
+  margin-left: 2%;
+  font-size: 1.2em;
+  line-height:1.15;
+  z-index: 50;
+  text-align: center;
+  color:grey;
+}
+
 
 .lunch{
   width:35%;
