@@ -18,7 +18,7 @@ br{
 .intro{
   width:95%;
   position: fixed;
-  top:40.15%;
+  top:46.15%;
   left:10px;
   margin-left: 2%;
   font-size: 1.2em;
@@ -46,8 +46,8 @@ br{
   width:35%;
   position: fixed;
   bottom:25px;
-  left:10px;
-  margin-left: 2%;
+  right:10px;
+  margin-right: 2%;
   font-size: 1.2em;
   line-height:1.15;
 }
